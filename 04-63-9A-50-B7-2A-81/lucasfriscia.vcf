@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Friscia;Lucas;;;
+FN:Lucas Friscia
+ORG:
+ADR;TYPE=WORK:
+TITLE:Consultant Digital
+TEL;TYPE=CELL:+330611350943
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:+330611350943
+EMAIL;TYPE=WORK:netproject1@pm.me
+URL;TYPE=Digital Business Card:http://beta-card.s3-website.eu-west-3.amazonaws.com/beta-card/04-63-9A-50-B7-2A-81
+URL:
+URL;TYPE=WhatsApp:https://wa.me/qr/F2T6TXM2W3KNN1
+URL;TYPE=Signal:https://signal.me/#p/+330611350943
+URL;TYPE=WeChat:weixin://dl/chat?lucas-damas
+URL;TYPE=LinkedIn:https://linkedin.com/in/lucasfriscia
+URL;TYPE=Twitter:https://twitter.com/netproject_1
+URL;TYPE=Discord:https://discord.gg/4pjRZbwF
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100069212
+END:VCARD
