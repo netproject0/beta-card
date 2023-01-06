@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:4.0
-N:Friscia;Lucas;;;
-FN:Lucas Friscia
+N:test;test;;;
+FN:test test
 TITLE:Consultant Digital
 TEL;TYPE=CELL:+330611350943
 EMAIL;TYPE=WORK:netproject1@pm.me
